@@ -1,0 +1,35 @@
+select {
+width: 500px;
+height:40px;
+background-color: #ffffff;
+color: #444;
+padding: 0px 4px;
+}
+
+option {
+    height:auto;
+}
+
+input {
+    width: 500px;
+    height:40px;
+    background-color: #ffffff;
+    color: #444;
+    padding: 0px 7px;
+    border-style: solid;
+    border-width: 1px;
+    }
+
+.hiddenForm {
+    display: none;
+}
+
+button {
+    height:40px;
+    background-color: #222222;
+    color: #ffffff;
+    padding: 0px 10px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #222222;
+}
